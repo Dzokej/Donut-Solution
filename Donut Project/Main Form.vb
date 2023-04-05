@@ -6,6 +6,7 @@ Option Explicit On
 Option Strict On
 Option Infer Off
 
+'another change
 Public Class frmMain
     Private Sub CalcSubtotal(ByRef decSubtotalCost As Decimal)
         ' Calculates the cost before sales tax.
